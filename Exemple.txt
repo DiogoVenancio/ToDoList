@@ -1,0 +1,10 @@
+state:
+{
+    "todos": [{
+        "id": 1,
+        "text": "Tarefa 1",
+        "done": true
+    }]
+}
+
+[]
